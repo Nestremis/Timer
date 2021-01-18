@@ -1,20 +1,25 @@
 {
   "files": {
-    "main.css": "/counter/static/css/main.3d24e887.chunk.css",
-    "main.js": "/counter/static/js/main.daff3662.chunk.js",
-    "main.js.map": "/counter/static/js/main.daff3662.chunk.js.map",
-    "runtime-main.js": "/counter/static/js/runtime-main.de4ab42b.js",
-    "runtime-main.js.map": "/counter/static/js/runtime-main.de4ab42b.js.map",
-    "static/js/2.34b3a45e.chunk.js": "/counter/static/js/2.34b3a45e.chunk.js",
-    "static/js/2.34b3a45e.chunk.js.map": "/counter/static/js/2.34b3a45e.chunk.js.map",
-    "index.html": "/counter/index.html",
-    "static/css/main.3d24e887.chunk.css.map": "/counter/static/css/main.3d24e887.chunk.css.map",
-    "static/js/2.34b3a45e.chunk.js.LICENSE.txt": "/counter/static/js/2.34b3a45e.chunk.js.LICENSE.txt"
+    "main.css": "/20-20-20%20timer/static/css/main.4e25a3d2.chunk.css",
+    "main.js": "/20-20-20%20timer/static/js/main.79129be1.chunk.js",
+    "main.js.map": "/20-20-20%20timer/static/js/main.79129be1.chunk.js.map",
+    "runtime-main.js": "/20-20-20%20timer/static/js/runtime-main.971f6d75.js",
+    "runtime-main.js.map": "/20-20-20%20timer/static/js/runtime-main.971f6d75.js.map",
+    "static/js/2.dd363b22.chunk.js": "/20-20-20%20timer/static/js/2.dd363b22.chunk.js",
+    "static/js/2.dd363b22.chunk.js.map": "/20-20-20%20timer/static/js/2.dd363b22.chunk.js.map",
+    "static/js/3.69ca26ed.chunk.js": "/20-20-20%20timer/static/js/3.69ca26ed.chunk.js",
+    "static/js/3.69ca26ed.chunk.js.map": "/20-20-20%20timer/static/js/3.69ca26ed.chunk.js.map",
+    "index.html": "/20-20-20%20timer/index.html",
+    "static/css/main.4e25a3d2.chunk.css.map": "/20-20-20%20timer/static/css/main.4e25a3d2.chunk.css.map",
+    "static/js/2.dd363b22.chunk.js.LICENSE.txt": "/20-20-20%20timer/static/js/2.dd363b22.chunk.js.LICENSE.txt",
+    "static/js/3.69ca26ed.chunk.js.LICENSE.txt": "/20-20-20%20timer/static/js/3.69ca26ed.chunk.js.LICENSE.txt",
+    "static/media/bell-ring.57d5e004.mp3": "/20-20-20%20timer/static/media/bell-ring.57d5e004.mp3",
+    "static/media/glass-clink-1.9caa9177.mp3": "/20-20-20%20timer/static/media/glass-clink-1.9caa9177.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.de4ab42b.js",
-    "static/js/2.34b3a45e.chunk.js",
-    "static/css/main.3d24e887.chunk.css",
-    "static/js/main.daff3662.chunk.js"
+    "static/js/runtime-main.971f6d75.js",
+    "static/js/2.dd363b22.chunk.js",
+    "static/css/main.4e25a3d2.chunk.css",
+    "static/js/main.79129be1.chunk.js"
   ]
 }
